@@ -1,0 +1,5 @@
+# 忽略gitlx.css这个文件
+gitlx.css
+
+# 忽略test目录下所有文件
+test/
